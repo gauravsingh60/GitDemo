@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55" started-at="2021-09-05T13:35:06 IST" finished-at="2021-09-05T13:35:06 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55" started-at="2021-09-05T13:35:06 IST" finished-at="2021-09-05T13:35:06 IST">
+      <class name="Framework.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="InvokeDriver()[pri:0, instance:Framework.MavenJava.SeleniumTest@6c49835d]" name="InvokeDriver" duration-ms="5" started-at="2021-09-05T13:35:06 IST" finished-at="2021-09-05T13:35:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvokeDriver -->
+        <test-method status="PASS" signature="Webpage()[pri:0, instance:Framework.MavenJava.SeleniumTest@6c49835d]" name="Webpage" duration-ms="0" started-at="2021-09-05T13:35:06 IST" finished-at="2021-09-05T13:35:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Webpage -->
+      </class> <!-- Framework.MavenJava.SeleniumTest -->
+      <class name="Framework.MavenJava.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:Framework.MavenJava.RestAPITest@26aa12dd]" name="deleteTwitter" duration-ms="1" started-at="2021-09-05T13:35:06 IST" finished-at="2021-09-05T13:35:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:Framework.MavenJava.RestAPITest@26aa12dd]" name="postJira" duration-ms="0" started-at="2021-09-05T13:35:06 IST" finished-at="2021-09-05T13:35:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- Framework.MavenJava.RestAPITest -->
+      <class name="Framework.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="Android()[pri:0, instance:Framework.MavenJava.AppiumTest@3fd7a715]" name="Android" duration-ms="0" started-at="2021-09-05T13:35:06 IST" finished-at="2021-09-05T13:35:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Android -->
+        <test-method status="PASS" signature="ios()[pri:0, instance:Framework.MavenJava.AppiumTest@3fd7a715]" name="ios" duration-ms="4" started-at="2021-09-05T13:35:06 IST" finished-at="2021-09-05T13:35:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ios -->
+      </class> <!-- Framework.MavenJava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
