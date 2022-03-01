@@ -7,6 +7,8 @@ public class SeleniumTest {
 	@Test
 	public void InvokeDriver() {
 		System.out.println("chromedriver");
+		System.out.println("IEDriver");
+		System.out.println("Firefox driver");
 	}
 
 	@Test
